@@ -4,4 +4,4 @@ Created a resilient consumer application utilizing consumer groups for parallel 
 Configured and managed Kafka clusters with optimal settings for production environments, including replication factors, partition strategies, and broker configurations
 Implemented comprehensive error handling, monitoring, and logging throughout the system to ensure operational reliability and facilitate troubleshooting
 Utilized Docker for containerization, enabling simplified deployment and consistent execution across different environments
-Demonstrated expertise in distributed systems principles including exactly-once semantics, horizontal scalability, and failure recovery mechanisms
+Demonstrated expertise in distributed systems principles including exactly-once semantics, horizontal scalability, and failure recovery mechanisms.
